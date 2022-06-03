@@ -1,0 +1,115 @@
+Package: enigma2-plugin-settings-emil.motor
+Version:1.0+git6074+5be3f1d_r0
+Section: base
+Architecture: all
+MD5Sum: 1d6966f3491dc1ccbeb204867d51e1f9
+Size: 410000
+Filename: enigma2-plugin-settings-emil.motor_1.0+git6074+5be3f1d_r0_all.ipk
+Description: emil enigma2 settings rotating
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/emil182/emil-settings-feed/raw/main
+OE: enigma2-plugin-settings-emil.motor
+License: Proprietary
+
+
+
+
+Package: enigma2-plugin-settings-romeh.motor
+Version: 1.0+git6074+6be3f1d_r0
+Section: base
+Architecture: all
+MD5Sum: 6fe7ea2cce3beddaf76c2c3522f51ec6
+Size: 803000
+Filename: enigma2-plugin-settings-romeh.motor_1.0+git6074+6be3f1d_r0_all.ipk
+Description: romeh E2 Settings File motor
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/emil182/emil-settings-feed/raw/main
+OE: enigma2-plugin-settings-romeh.motor
+License: Proprietary
+
+
+
+Package: enigma2-plugin-settings-vhannibal.trial
+Version: 1.0+git6074+5be3f1d_r0
+Section: base
+Architecture: all
+MD5Sum: 9df6611ab8d1b2d69058ac4dacade6c2
+Size: 247788
+Filename: enigma2-plugin-settings-vhannibal.trial_1.0+git6074+5be3f1d_r0_all.ipk
+Description: Vhannibal E2 Settings File trial
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/oe-alliance/oe-alliance-settings
+OE: enigma2-plugin-settings-vhannibal.trial
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e
+Version: 1.0+git6074+5be3f1d_r0
+Section: base
+Architecture: all
+MD5Sum: 9d0b6f4f39f147e01509b87d6f4e9ed9
+Size: 569708
+Filename: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e_1.0+git6074+5be3f1d_r0_all.ipk
+Description: Vhannibal E2 Settings File quad.13e.19e.23e.28e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/oe-alliance/oe-alliance-settings
+OE: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e
+License: Proprietary
+
+
+
+Package: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma
+Version: 1.0+git6074+5be3f1d_r0
+Section: base
+Architecture: all
+MD5Sum: 0f269488ee349d41254bbfa354cc5888
+Size: 419974
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma_1.0+git6074+5be3f1d_r0_all.ipk
+Description: Vhannibal E2 Settings File dual.feeds.and.dtt.roma
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/oe-alliance/oe-alliance-settings
+OE: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma
+License: Proprietary
+
+
+
+Package: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano
+Version: 1.0+git6074+5be3f1d_r0
+Section: base
+Architecture: all
+MD5Sum: 3188f3dc346849297677a7bcaf2de4fc
+Size: 553810
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano_1.0+git6074+5be3f1d_r0_all.ipk
+Description: Vhannibal E2 Settings File dual.feeds.and.dtt.milano
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/oe-alliance/oe-alliance-settings
+OE: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano
+License: Proprietary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
